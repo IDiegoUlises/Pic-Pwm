@@ -2,6 +2,12 @@
 
 <img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/16f887-Pic.png"  />
 
+* **Los Pines CCP1 y CCP2 funcionan como salidas de pwm**
+* Vdd: Positivo del microcontrolador
+* Vss: Negativo del microcontrolador
+* Clkin: Osicilador conectado a negativo
+* Clkout: Osicilador conectado a negativo
+
 
 ### Codigo
 ```c
