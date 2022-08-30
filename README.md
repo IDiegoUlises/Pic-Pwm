@@ -36,3 +36,17 @@ void main()
    }
 }
 ```
+### Compilar en Css Compiler
+<img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/Codigo-En-Imagen.png"  />
+
+### Conectar el Pic al Pickit 
+<img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/Pickit3.jpg" width="1000" height="500" />
+
+### Subir el archivo Hex al Pickit 
+<img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/Importar-Hex.png"  />
+
+### Luego subir el programa al microcontrolador con "Write"
+<img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/Write-pickit.png"  />
+
+### Conexion
+<img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/Imagen-en-Fritzing.png" />
