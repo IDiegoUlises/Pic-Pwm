@@ -50,3 +50,6 @@ void main()
 
 ### Conexion
 <img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/Imagen-en-Fritzing.png" />
+
+### Funcionamiento
+![](https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/GIF-Pwm.gif)
