@@ -1,4 +1,7 @@
-# Pic-Pwm
+# Pic 16F887 Pwm
+
+<img src="https://github.com/IDiegoUlises/Pic-Pwm/blob/main/Images/16f887-Pic.png"  />
+
 
 ### Codigo
 ```c
